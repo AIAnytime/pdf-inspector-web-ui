@@ -4,6 +4,10 @@ A zero-dependency web demo for [pdf-inspector](https://github.com/firecrawl/pdf-
 
 Built using pdf-inspector (Firecrawl) by **AI Anytime** with ♥
 
+**[▶ Live demo](https://aianytime.github.io/pdf-inspector-web-ui/)**
+
+![PDF Inspector Web UI — a 7-page tagged PDF parsed to Markdown in 86 ms, entirely in the browser](docs/screenshot.jpg)
+
 ## Run it locally
 
 ```bash
