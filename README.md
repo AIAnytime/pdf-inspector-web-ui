@@ -68,4 +68,4 @@ cp /tmp/wasm-out/pdf_inspector_wasm.js \
 
 ## License
 
-MIT — see [LICENSE](LICENSE). The bundled WebAssembly engine in `vendor/` is MIT-licensed from [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector); the sample PDFs come from that project's test fixtures.
+Proprietary — all rights reserved. This code is published for viewing and evaluation only; no use, copying, modification, redistribution, commercial use, or use as AI/ML training data without written permission. See [LICENSE](LICENSE). Commercial licensing: aianytime07@gmail.com · sonu@aianytime.net. The bundled WebAssembly engine in `vendor/` is MIT-licensed from [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) and remains under its own license; the sample PDFs come from that project's test fixtures.
